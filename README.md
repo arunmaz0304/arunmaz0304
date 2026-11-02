@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aru 👋
 
-<!--
-**arunmaz0304/arunmaz0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Legal Engineer in Stockholm. I help in-house legal teams and law firms get real work out of AI, using Claude, Copilot and ChatGPT agent workflows, playbooks, legal MCP and custom-built tools.
 
-Here are some ideas to get you started:
+I come from public international law (LLM, University of Oslo) and I build with Lovable, the Claude API, ChatGPT, Copilot Studio and n8n. I'm not a developer, and I think that's an advantage when the goal is tools lawyers will actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Legal AI adoption**: agent workflows, playbooks and training for legal teams
+- **Legal engineering**: internal tools, Claude skills, MCP connections to legal data
+- **EU regulation made usable**: GDPR, EU AI Act, NIS2, DORA, DSA/DMA, Data Act
+- **Teaching**: Industry Leader at Hyper Island (data governance, AI ethics)
+
+## Talks, teaching and podcast
+
+- Industry Leader, [Hyper Island](https://www.hyperisland.com)
+- Co-host of *Still Human*, a podcast on AI ethics with IWIB4AI
+- Workshops on AI for legal teams
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/arunendu-mazumder/)
